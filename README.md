@@ -376,7 +376,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "AAKASHRAJ");
+    strcpy(msg, "SIVARAM");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
@@ -446,7 +446,7 @@ Design of Vigenere Cipher algorithnm
 
 ### Step 2:
 
-Implementation using C or pyhton code
+Implementation using C or python code
 
 ### Step 3:
 
